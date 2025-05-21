@@ -1,6 +1,6 @@
 # AWS-Services-Lab
 
-This repository contains practical labs and project setups using key AWS services, designed for learning cloud infrastructure and deployment. Topics covered include:
+This repository contains practical labs and project setups using key AWS services, designed for learning cloud infrastructure and deployment using AWS free tier account. Topics covered include:
 
 - ## Covered Services
 
